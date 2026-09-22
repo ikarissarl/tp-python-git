@@ -1,2 +1,4 @@
-# TP Python & Git 
-Parcours d'apprentissage Python avec la methodologie Git flow 
+# Exercice complétés 
+-exercice 1 : calcul d'âge
+-exercice 2 : test parité
+-exercice 3 : calcul moyenne
